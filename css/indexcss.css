@@ -1,0 +1,11 @@
+.tile{
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border: 1px solid;
+    display: inline-block;
+}
+canvas{
+    width: 200px;
+    height: 200px;
+}
